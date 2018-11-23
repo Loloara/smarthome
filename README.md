@@ -26,6 +26,7 @@ Smart Home에서 축적되는 센서값을 대쉬보드에 시각화한다.
 - 시연하는 곳의 조명 밝기에 따라서 조도 센서 초기값을 새로 세팅해야하는 이슈가 있었다.
 
 ## [SK텔레콤 첨단 ICT 체험관 T.um 모바일]
+누적 체험 인원은 16만명에 달한다.
 ![Alt text](/images/article_1.jpg?raw=true "Article1")
 ![Alt text](/images/article_2.jpg?raw=true "Article2")
 
